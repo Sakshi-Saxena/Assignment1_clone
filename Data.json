@@ -33,5 +33,12 @@
     "role": "DevOps Engineer",
     "department": "Infrastructure",
     "email": "eva@example.com"
+  },
+  {
+    "id": 6,
+    "name": "johny Johnson",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "email": "johny@example.com"
   }
 ]
