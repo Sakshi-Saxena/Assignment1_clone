@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "email": "alice@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "role": "Product Manager",
+    "department": "Product",
+    "email": "bob@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Carol White",
+    "role": "UX Designer",
+    "department": "Design",
+    "email": "carol@example.com"
+  },
+  {
+    "id": 4,
+    "name": "David Lee",
+    "role": "Data Scientist",
+    "department": "Analytics",
+    "email": "david@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Eva Martinez",
+    "role": "DevOps Engineer",
+    "department": "Infrastructure",
+    "email": "eva@example.com"
+  }
+]
